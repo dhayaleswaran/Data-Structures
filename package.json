@@ -1,0 +1,14 @@
+{
+  "name": "DataStructures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dhayaleswaran/Data-Structures.git",
+  "author": "<cdledhaya111@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.7.3"
+  }
+}
